@@ -27,21 +27,7 @@ public class ResetProgression : MonoBehaviour
         V.CollarLevel = 0;
         V.gpu1Cost = 1000;
         V.gpu2Cost = 2500;
-        //PlayerPrefs.SetFloat("DogCoin", V.DogCoinStart);
-        //PlayerPrefs.SetInt("ClickValue", V.ClickValueStart);
-        //PlayerPrefs.SetInt("DogCoinCapacity", V.DogCoinCapacityStart);
-        //PlayerPrefs.SetInt("CapacityCost", V.CapacityCostStart);
-        //PlayerPrefs.SetInt("BoneCost", V.BoneCostStart);
-        //PlayerPrefs.SetFloat("Mining", V.MiningStart);
-        //PlayerPrefs.SetInt("MinerCost", V.MinerCostStart);
-        //PlayerPrefs.SetFloat("CollarPercentage", V.CollarPercentageStart);
-        //PlayerPrefs.SetInt("CollarCost", V.CollarCostStart);
-        //PlayerPrefs.SetInt("gpu1Cost", V.gpu1CostStart);
-        //PlayerPrefs.SetInt("gpu2Cost", V.gpu2CostStart);
-        //PlayerPrefs.SetInt("CapacityLevel", V.CapacityLevelStart);
-        //PlayerPrefs.SetInt("BoneLevel", V.BoneLevelStart);
-        //PlayerPrefs.SetInt("MinerLevel", V.MinerLevelStart);
-        //PlayerPrefs.SetInt("CollarLevel", V.CollarLevelStart);
+        
 
 
 
