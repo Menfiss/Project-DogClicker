@@ -27,7 +27,7 @@ public class DogCoinClick : MonoBehaviour
         if (V.DogCoin < V.DogCoinCapacity) V.DogCoin += V.ClickValue;
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if(V.DogCoin > V.DogCoinCapacity) V.DogCoin = V.DogCoinCapacity;
         DogeCoinValueText.text = Math.Round(V.DogCoin, 2).ToString() + "/" + V.DogCoinCapacity.ToString();
@@ -36,7 +36,7 @@ public class DogCoinClick : MonoBehaviour
             for (int i = 0; i < DogCoinList.Count; i++)
                 if (DogCoinList[i].transform.position.y > 30)
                 {
-                    DogCoinList[i].transform.Translate(0, -1, 0);
+                    DogCoinList[i].transform.Translate(0, -6, 0);
                 }
                 else
                 {

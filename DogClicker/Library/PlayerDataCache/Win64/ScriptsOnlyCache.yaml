@@ -1047,4 +1047,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Main.unity
   - Assets/Scenes/Settings.unity
   - Assets/Scenes/DogCoinFactory.unity
-  playerPath: "C:/Users/K\xE1rsk\xFD Luk\xE1\u0161/Desktop/Nov\xE1 slo\u017Eka/DogClicker.exe"
+  playerPath: "C:/Users/K\xE1rsk\xFD Luk\xE1\u0161/Desktop/Project-DogClicker/DogClicker-Build/DogClicker.exe"

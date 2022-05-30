@@ -1,461 +1,460 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1653172278221363, "dur":1202, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278222571, "dur":20, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
-,{ "pid":12345, "tid":0, "ts":1653172278222599, "dur":11, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
-,{ "pid":12345, "tid":0, "ts":1653172278222611, "dur":254, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
-,{ "pid":12345, "tid":0, "ts":1653172278222883, "dur":403, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278223287, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326580, "dur":191, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326771, "dur":15, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326786, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326788, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326799, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326800, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326810, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326812, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326818, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326820, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326827, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326829, "dur":75, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326904, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326905, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326913, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326914, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326924, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326944, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278326949, "dur":1977, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1653172278223604, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1653172278223604, "dur":2877, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1653172278226481, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":1, "ts":1653172278226656, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1653172278228675, "dur":7172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":1, "ts":1653172278235911, "dur":27017, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":1, "ts":1653172278262931, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1653172278263005, "dur":11122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":1, "ts":1653172278274181, "dur":2239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":1, "ts":1653172278276425, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1653172278276434, "dur":5123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":1, "ts":1653172278281606, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":1, "ts":1653172278281673, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1653172278281679, "dur":2862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":1, "ts":1653172278284585, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":1, "ts":1653172278284634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1653172278284639, "dur":4240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":1, "ts":1653172278288925, "dur":37654, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278223343, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278223343, "dur":3115, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278226474, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":2, "ts":1653172278226479, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278227730, "dur":404, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":2, "ts":1653172278228137, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/app.info" }}
-,{ "pid":12345, "tid":2, "ts":1653172278228191, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278228335, "dur":3469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/app.info" }}
-,{ "pid":12345, "tid":2, "ts":1653172278231806, "dur":2486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":2, "ts":1653172278234296, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278234303, "dur":1004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":2, "ts":1653172278235358, "dur":3289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278238655, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278239136, "dur":1825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278241007, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278241209, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278241407, "dur":1251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278242715, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278242880, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278242892, "dur":2639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278245584, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278245755, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278245763, "dur":2068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278247877, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278248013, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278248020, "dur":1027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278249094, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278249252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278249258, "dur":1403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278250706, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278250846, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278250851, "dur":1822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278252725, "dur":1128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278253857, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278253863, "dur":3047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278256958, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278257109, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278257116, "dur":1936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278259114, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278259256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278259262, "dur":1696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278261000, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278261171, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278261178, "dur":1682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278262915, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278263171, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278263177, "dur":1344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278264569, "dur":1358, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278265930, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278265936, "dur":3521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278269504, "dur":462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278269968, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278269976, "dur":1653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278271677, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278271909, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278271938, "dur":1362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278273346, "dur":230, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278273579, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278273585, "dur":1769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278275403, "dur":1951, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278277358, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278277386, "dur":4209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":2, "ts":1653172278281678, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1653172278281833, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278281838, "dur":4221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1653172278286126, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/level1" }}
-,{ "pid":12345, "tid":2, "ts":1653172278286180, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1653172278286188, "dur":2845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/level1" }}
-,{ "pid":12345, "tid":2, "ts":1653172278289075, "dur":37503, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278223471, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278223471, "dur":3002, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278226474, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":3, "ts":1653172278226653, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278228579, "dur":2966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":3, "ts":1653172278231590, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":3, "ts":1653172278231685, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278231692, "dur":8093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":3, "ts":1653172278239851, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":3, "ts":1653172278239975, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278240353, "dur":10401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":3, "ts":1653172278250799, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278250961, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278250966, "dur":1810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278252818, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278252986, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278252992, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278254579, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278254766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278254772, "dur":1331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278256148, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278256319, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278256325, "dur":1858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278258230, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278258410, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278258418, "dur":2233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278260701, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278260893, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278260899, "dur":1802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278262856, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278263043, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278263067, "dur":1364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278264477, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278264612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278264635, "dur":1403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278266091, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278266237, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278266243, "dur":1634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278267983, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278268155, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278268160, "dur":1650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278269854, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278270085, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278270095, "dur":1437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278271573, "dur":999, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278272576, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278272582, "dur":2878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278275509, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278275783, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278275791, "dur":2969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278278835, "dur":5355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278284196, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1653172278284206, "dur":8723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":3, "ts":1653172278292992, "dur":33588, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278223493, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278223493, "dur":2973, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278226474, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":4, "ts":1653172278226660, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278229250, "dur":2492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":4, "ts":1653172278231791, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":4, "ts":1653172278231896, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278232257, "dur":6719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":4, "ts":1653172278239032, "dur":672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker.exe" }}
-,{ "pid":12345, "tid":4, "ts":1653172278239708, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278239715, "dur":2598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker.exe" }}
-,{ "pid":12345, "tid":4, "ts":1653172278242365, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278242523, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278242529, "dur":1902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278244477, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278244651, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278244659, "dur":2036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278246764, "dur":313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278247081, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278247091, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278248397, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278248553, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278248559, "dur":1675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278250294, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278250471, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278250479, "dur":2075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278252610, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278252791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278252799, "dur":1281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278254128, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278254428, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278254433, "dur":1730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278256214, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278256361, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278256367, "dur":1859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278258279, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278258445, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278258451, "dur":1823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278260330, "dur":281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278260614, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278260620, "dur":1798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278262479, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278262626, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278262632, "dur":1585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278264266, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278264411, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278264416, "dur":1612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278266101, "dur":334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278266439, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278266443, "dur":1767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278268257, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278268410, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278268416, "dur":1576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278270033, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278270194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278270200, "dur":1797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278272045, "dur":248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278272296, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278272302, "dur":1631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278273976, "dur":2444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278276425, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278276434, "dur":5728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":4, "ts":1653172278282213, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":4, "ts":1653172278282258, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278282263, "dur":2866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":4, "ts":1653172278285188, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/level2" }}
-,{ "pid":12345, "tid":4, "ts":1653172278285241, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278285247, "dur":1894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/level2" }}
-,{ "pid":12345, "tid":4, "ts":1653172278287197, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":4, "ts":1653172278287244, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1653172278287249, "dur":1838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":4, "ts":1653172278289131, "dur":37444, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1653172278223655, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1653172278223655, "dur":2868, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1653172278226523, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":5, "ts":1653172278226666, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1653172278229636, "dur":2246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":5, "ts":1653172278231928, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":5, "ts":1653172278232023, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1653172278232114, "dur":1894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":5, "ts":1653172278234052, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":5, "ts":1653172278234154, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1653172278234161, "dur":3368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":5, "ts":1653172278237578, "dur":59589, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":5, "ts":1653172278297172, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1653172278297178, "dur":29325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":5, "ts":1653172278326553, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
-,{ "pid":12345, "tid":5, "ts":1653172278326557, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278223528, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278223528, "dur":2951, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278226481, "dur":1363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1653172278227848, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278228606, "dur":2593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1653172278231248, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":6, "ts":1653172278231431, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278231522, "dur":2225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":6, "ts":1653172278233793, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":6, "ts":1653172278233947, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278234013, "dur":7935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":6, "ts":1653172278241995, "dur":279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278242277, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278242349, "dur":1251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278243650, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278243838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278243847, "dur":1142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278245055, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278245226, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278245235, "dur":1698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278246982, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278247173, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278247179, "dur":1234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278248466, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278248612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278248618, "dur":1427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278250148, "dur":362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278250532, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278250538, "dur":2141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278252726, "dur":792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278253522, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278253528, "dur":2113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278255693, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278255920, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278255926, "dur":1622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278257597, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278257740, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278257745, "dur":1787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278259618, "dur":266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278259889, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278259896, "dur":1977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278261925, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278262196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278262204, "dur":2004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278264263, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278264495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278264501, "dur":1567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278266124, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278266302, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278266308, "dur":1500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278267852, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278268056, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278268063, "dur":1752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278269869, "dur":3015, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278272887, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278272893, "dur":6513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":6, "ts":1653172278279450, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":6, "ts":1653172278279504, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278279564, "dur":1721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":6, "ts":1653172278281330, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets1.assets.resS" }}
-,{ "pid":12345, "tid":6, "ts":1653172278281372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278281377, "dur":2223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets1.assets.resS" }}
-,{ "pid":12345, "tid":6, "ts":1653172278283688, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":6, "ts":1653172278283946, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278284105, "dur":2862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":6, "ts":1653172278287029, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":6, "ts":1653172278287090, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1653172278287098, "dur":2139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":6, "ts":1653172278289310, "dur":37267, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278223624, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278223624, "dur":2848, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278226474, "dur":1042, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1653172278227521, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278228651, "dur":2662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1653172278231363, "dur":1836, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":7, "ts":1653172278233213, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278233235, "dur":887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":7, "ts":1653172278234165, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":7, "ts":1653172278234259, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278234265, "dur":19770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":7, "ts":1653172278254102, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278254263, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278254270, "dur":1401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278255729, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278255916, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278255924, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278257371, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278257529, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278257535, "dur":1397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278258983, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278259238, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278259245, "dur":1930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278261267, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278261448, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278261453, "dur":1717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278263216, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278263394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278263399, "dur":1524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278264974, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278265155, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278265161, "dur":1529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278266738, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278266879, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278266885, "dur":3427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278270411, "dur":600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278271016, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278271036, "dur":2331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278273455, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278273624, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278273630, "dur":1528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278275201, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278275353, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278275360, "dur":1782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278277181, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278277403, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278277408, "dur":1584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278279042, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278279240, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278279248, "dur":1474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":7, "ts":1653172278280770, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets2.assets.resS" }}
-,{ "pid":12345, "tid":7, "ts":1653172278280817, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278280823, "dur":3645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets2.assets.resS" }}
-,{ "pid":12345, "tid":7, "ts":1653172278284525, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/resources.resource" }}
-,{ "pid":12345, "tid":7, "ts":1653172278284605, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278284611, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/resources.resource" }}
-,{ "pid":12345, "tid":7, "ts":1653172278286554, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/level0" }}
-,{ "pid":12345, "tid":7, "ts":1653172278286634, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278286639, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/level0" }}
-,{ "pid":12345, "tid":7, "ts":1653172278288559, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/boot.config" }}
-,{ "pid":12345, "tid":7, "ts":1653172278288761, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1653172278288768, "dur":1354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/boot.config" }}
-,{ "pid":12345, "tid":7, "ts":1653172278290176, "dur":36415, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278223779, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278223780, "dur":2685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278226474, "dur":1357, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":8, "ts":1653172278227837, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278228559, "dur":2629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":8, "ts":1653172278231241, "dur":1304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":8, "ts":1653172278232551, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278232559, "dur":1009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":8, "ts":1653172278233612, "dur":2708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":8, "ts":1653172278236325, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278236336, "dur":1287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":8, "ts":1653172278237673, "dur":9672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":8, "ts":1653172278247349, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278247354, "dur":2931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":8, "ts":1653172278250337, "dur":474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UNETModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278250815, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278250821, "dur":2079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.UNETModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278252952, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278253110, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278253116, "dur":1462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278254641, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278254791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278254797, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278256085, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278256289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278256295, "dur":1983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278258325, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278258544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278258549, "dur":1763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278260355, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278260502, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278260509, "dur":1627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278262184, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278262327, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278262333, "dur":1661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278264049, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278264198, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278264206, "dur":1258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278265512, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278265656, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278265663, "dur":1112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278266818, "dur":291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278267113, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278267119, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278268511, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278268752, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278268758, "dur":1547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278270345, "dur":299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278270648, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278270654, "dur":1499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278272198, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278272324, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278272329, "dur":1384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278273765, "dur":531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278274299, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278274307, "dur":2166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278276524, "dur":433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278276961, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278276971, "dur":1987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278279016, "dur":346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278279365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278279372, "dur":1734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":8, "ts":1653172278281155, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets2.assets" }}
-,{ "pid":12345, "tid":8, "ts":1653172278281205, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278281210, "dur":1843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/sharedassets2.assets" }}
-,{ "pid":12345, "tid":8, "ts":1653172278283103, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":8, "ts":1653172278283265, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278283273, "dur":1833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":8, "ts":1653172278285158, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/resources.assets" }}
-,{ "pid":12345, "tid":8, "ts":1653172278285208, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1653172278285214, "dur":3701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Nov sloka/DogClicker_Data/resources.assets" }}
-,{ "pid":12345, "tid":8, "ts":1653172278288962, "dur":37614, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1653172278330975, "dur":1376, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid":12345, "tid":0, "ts":1653939667973652, "dur":3175, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939667976837, "dur":83, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1653939667976934, "dur":13, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1653939667976948, "dur":370, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1653939667977343, "dur":1022, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939667978365, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085107, "dur":205, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085312, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085324, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085326, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085338, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085340, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085348, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085350, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085358, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085359, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085366, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085369, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085376, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085378, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085386, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085388, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085396, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085419, "dur":18, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668085444, "dur":2491, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1653939667979093, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939667979093, "dur":3831, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939667982924, "dur":645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1653939667983593, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939667985129, "dur":7740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1653939667992922, "dur":4493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1653939667997420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939667997426, "dur":2597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1653939668000080, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668000273, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668000283, "dur":1870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668002215, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668002441, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668002452, "dur":1196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668003696, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668003926, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668003933, "dur":1668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668005663, "dur":361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668006027, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668006032, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668008319, "dur":225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668008548, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668008555, "dur":1506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668010114, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668010327, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668010333, "dur":2547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668012925, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668013064, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668013071, "dur":2885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668016001, "dur":278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668016282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668016289, "dur":3026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668019361, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668019525, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668019530, "dur":3351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668022933, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668023097, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668023105, "dur":2915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668026067, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668026275, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668026281, "dur":2395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668028748, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668028926, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668028932, "dur":2755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668031738, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668032033, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668032038, "dur":3331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668035420, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668035664, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668035671, "dur":1739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668037447, "dur":508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668037959, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668037966, "dur":1827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668039837, "dur":469, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668040309, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668040317, "dur":3437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1653939668043798, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1653939668043847, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668043853, "dur":2782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1653939668046689, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1653939668046751, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668046757, "dur":2586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1653939668049387, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1653939668049437, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668049507, "dur":1931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1653939668051494, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1653939668051661, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1653939668051668, "dur":1804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1653939668053503, "dur":31604, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653939667978428, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653939667978428, "dur":4386, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653939667982826, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1653939667982828, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653939667982895, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1653939667982901, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653939667984178, "dur":3275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1653939667987456, "dur":1613, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1653939667989072, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653939667989079, "dur":1174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1653939667990299, "dur":1106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1653939667991409, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653939667991418, "dur":1078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1653939667992544, "dur":65039, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653939668057587, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1653939668057593, "dur":27414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1653939668085065, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":2, "ts":1653939668085068, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939667978006, "dur":425, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939667978431, "dur":4492, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939667982923, "dur":1888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1653939667984816, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939667985436, "dur":2190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1653939667987672, "dur":2497, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1653939667990173, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939667990183, "dur":990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1653939667991210, "dur":21161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1653939668012374, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939668012530, "dur":13317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1653939668025886, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1653939668026028, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939668026035, "dur":2623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1653939668028739, "dur":223, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1653939668029019, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939668029024, "dur":3715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1653939668032822, "dur":2977, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1653939668035803, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939668035809, "dur":7477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1653939668043332, "dur":324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1653939668043660, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939668043668, "dur":1622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1653939668045337, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1653939668045397, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939668045424, "dur":2348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1653939668047822, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/resources.resource" }}
+,{ "pid":12345, "tid":3, "ts":1653939668047868, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939668047874, "dur":1635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/resources.resource" }}
+,{ "pid":12345, "tid":3, "ts":1653939668049571, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1653939668049644, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1653939668049650, "dur":1822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1653939668051522, "dur":33568, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939667978221, "dur":219, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939667978440, "dur":4450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939667982891, "dur":1649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1653939667984544, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939667985427, "dur":2130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1653939667987626, "dur":843, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1653939667988473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939667988544, "dur":2000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1653939667990589, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1653939667990691, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939667990726, "dur":7510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1653939667998284, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939667998479, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939667998491, "dur":1882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668000419, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668000622, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668000631, "dur":2125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668002811, "dur":299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668003115, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668003123, "dur":1879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668005081, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668005240, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668005252, "dur":1783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668007104, "dur":245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668007353, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668007361, "dur":1485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668008895, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668009169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668009177, "dur":1270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668010544, "dur":359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668010906, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668010912, "dur":2257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668013212, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668013431, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668013457, "dur":2664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668016181, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668016325, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668016355, "dur":2822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668019228, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668019383, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668019391, "dur":3303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668022736, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668022949, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668022956, "dur":2522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668025563, "dur":1512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668027078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668027085, "dur":5722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668032854, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668033055, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668033062, "dur":2427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668035541, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668035785, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668035791, "dur":2480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668038311, "dur":2155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668040468, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668040472, "dur":6784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1653939668047306, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1653939668047496, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668047536, "dur":1744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1653939668049333, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1653939668049379, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1653939668049388, "dur":3895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1653939668053338, "dur":31753, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939667978830, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939667978830, "dur":4094, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939667982924, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1653939667983180, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939667986242, "dur":1930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1653939667988213, "dur":353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1653939667988570, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939667988639, "dur":2141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1653939667990822, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1653939667990927, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939667990934, "dur":20428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1653939668011418, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668011680, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668011687, "dur":1820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668013598, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668013720, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668013724, "dur":2451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668016216, "dur":286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668016504, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668016509, "dur":2848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668019393, "dur":425, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668019820, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668019825, "dur":3205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668023074, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668023224, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668023230, "dur":2866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668026142, "dur":381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668026527, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668026533, "dur":2089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668028665, "dur":292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668028960, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668028963, "dur":3855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668032861, "dur":347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668033210, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668033214, "dur":2368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668035628, "dur":285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668035917, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668035923, "dur":2757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668038740, "dur":1345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668040088, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668040099, "dur":3554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1653939668043702, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1653939668043794, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668043864, "dur":1542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1653939668045456, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1653939668045513, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668045520, "dur":2437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1653939668048008, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1653939668048054, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1653939668048059, "dur":3989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1653939668052098, "dur":32992, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939667978633, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939667978634, "dur":4189, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939667982826, "dur":1708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1653939667984538, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939667986050, "dur":1738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1653939667987831, "dur":880, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1653939667988715, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939667988724, "dur":7969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1653939667996758, "dur":533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939667997295, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939667997507, "dur":1219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939667998768, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939667998943, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939667998952, "dur":1811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668000814, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668000990, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668000997, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668002897, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668003092, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668003101, "dur":1964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668005107, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668005291, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668005298, "dur":2105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668007450, "dur":1158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668008612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668008619, "dur":3413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668012108, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668012268, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668012275, "dur":1790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668014110, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668014372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668014377, "dur":2448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668016885, "dur":295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668017184, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668017191, "dur":3700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668020935, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668021111, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668021122, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668023176, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668023441, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668023448, "dur":4453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668027952, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668028132, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668028138, "dur":2606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668030786, "dur":560, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668031349, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668031355, "dur":4189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668035598, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668035853, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668035860, "dur":2919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668038887, "dur":284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668039175, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668039181, "dur":1739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668040963, "dur":4432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668045398, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1653939668045410, "dur":8057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1653939668053496, "dur":31593, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939667979024, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939667979024, "dur":3898, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939667982922, "dur":277, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1653939667983201, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939667985616, "dur":2215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1653939667987879, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1653939667987998, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939667988381, "dur":2384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1653939667990820, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1653939667990929, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939667990936, "dur":2034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1653939667993023, "dur":779, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker.exe" }}
+,{ "pid":12345, "tid":7, "ts":1653939667993806, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939667993814, "dur":2239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker.exe" }}
+,{ "pid":12345, "tid":7, "ts":1653939667996112, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1653939667996292, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939667997258, "dur":9330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1653939668006724, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668006915, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668006921, "dur":1552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668008517, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668008732, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668008739, "dur":1490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668010282, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668010448, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668010453, "dur":2385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668012883, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668013036, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668013043, "dur":2308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668015418, "dur":374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668015795, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668015802, "dur":2268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668018173, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668018326, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668018333, "dur":2931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668021315, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668021473, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668021477, "dur":2168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668023712, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668023855, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668023859, "dur":3083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668027026, "dur":447, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668027475, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668027480, "dur":2928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668030437, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668030592, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668030600, "dur":3067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668033724, "dur":454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668034181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668034188, "dur":2081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668036310, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668036495, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668036499, "dur":2149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668038690, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668038851, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668038859, "dur":975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668039882, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668040094, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668040101, "dur":1870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668042015, "dur":376, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668042395, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668042404, "dur":2518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1653939668044973, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1653939668045046, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668045055, "dur":1320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1653939668046421, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1653939668046476, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668046483, "dur":2825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1653939668049367, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1653939668049420, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668049425, "dur":1833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1653939668051309, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1653939668051365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1653939668051374, "dur":1859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1653939668053287, "dur":31801, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939667979506, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939667979507, "dur":3382, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939667982890, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1653939667983156, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939667986112, "dur":2056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1653939667988213, "dur":1687, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1653939667989905, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939667989916, "dur":1220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1653939667991177, "dur":3451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939667994659, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939667994930, "dur":2397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939667997376, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939667997654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939667997703, "dur":1146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939667998895, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939667999087, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939667999095, "dur":1991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668001173, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668001337, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668001370, "dur":2142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668003564, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668003784, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668003793, "dur":1838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668005680, "dur":236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668005920, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668005928, "dur":1872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668007845, "dur":320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668008169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668008177, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668009649, "dur":346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668010001, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668010010, "dur":2468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668012607, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668012779, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668012785, "dur":2558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668015387, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668015574, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668015579, "dur":1893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668017508, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668017652, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668017659, "dur":3379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668021077, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668021219, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668021225, "dur":2070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668023339, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668023476, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668023554, "dur":3303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668026900, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668027136, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668027142, "dur":3585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668030775, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668031002, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668031010, "dur":3029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668034080, "dur":914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668034999, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668035004, "dur":2716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668037755, "dur":2597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668040355, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668040380, "dur":7212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1653939668047637, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1653939668047801, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668047808, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1653939668049585, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1653939668049642, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1653939668049647, "dur":1795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Krsk Luk/Desktop/Project-DogClicker/DogClicker-Build/DogClicker_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1653939668051505, "dur":33590, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1653939668089335, "dur":1389, "ph":"X", "name": "ProfilerWriteOutput" }
 ,
